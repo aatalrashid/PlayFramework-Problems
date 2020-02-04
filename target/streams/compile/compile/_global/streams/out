@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/trevor/Desktop/playProjects/my-form/app/controllers/PlacesController.scala:18:18: too many arguments (2) for method apply: (n: Int)(Int, String) in trait LinearSeqOptimized[0m
+[0m[[0m[31merror[0m] [0m[0m    thePlaces(1, "newyork"),[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/trevor/Desktop/playProjects/my-form/app/controllers/PlacesController.scala:19:18: too many arguments (2) for method apply: (n: Int)(Int, String) in trait LinearSeqOptimized[0m
+[0m[[0m[31merror[0m] [0m[0m    thePlaces(2, "chicago"),[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/trevor/Desktop/playProjects/my-form/app/controllers/PlacesController.scala:20:18: too many arguments (2) for method apply: (n: Int)(Int, String) in trait LinearSeqOptimized[0m
+[0m[[0m[31merror[0m] [0m[0m    thePlaces(3, "capetown")[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

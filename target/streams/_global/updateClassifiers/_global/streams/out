@@ -1,0 +1,1 @@
+[warn] insecure HTTP request is deprecated 'http://repo.akka.io/snapshots/'; switch to HTTPS or opt-in as ("Akka Snapshot Repository" at "http://repo.akka.io/snapshots/").withAllowInsecureProtocol(true)

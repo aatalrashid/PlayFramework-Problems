@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for org.scalatest.tools.Framework produced 3 initial tasks for 3 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(browser.BrowserSpec, sbt.ForkMain$SubclassFingerscan@2e432990, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBrowserSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe browser should[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must successfully process a form[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(unit.UnitSpec, sbt.ForkMain$SubclassFingerscan@407bdb34, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUnitSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWidgetForm[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must apply successfully from request[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must apply successfully from map[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must show errors when applied unsuccessfully[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 3 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(functional.FunctionalSpec, sbt.ForkMain$SubclassFingerscan@9f81aef, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFunctionalSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWidgetController[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must process a POST request successfully[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must reject a POST request when given bad input[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 2 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 0 initial tasks for 0 tests.[0m
+[0m[[0m[0minfo[0m] [0m[0mScalaTest[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 10 seconds, 635 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 6, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 6, Failed 0, Errors 0, Passed 6[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	unit.UnitSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional.FunctionalSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	browser.BrowserSpec[0m

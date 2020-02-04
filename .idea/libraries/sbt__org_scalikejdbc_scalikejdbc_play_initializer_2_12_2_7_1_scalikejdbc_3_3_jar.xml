@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.scalikejdbc:scalikejdbc-play-initializer_2.12:2.7.1-scalikejdbc-3.3:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalikejdbc/scalikejdbc-play-initializer_2.12/2.7.1-scalikejdbc-3.3/scalikejdbc-play-initializer_2.12-2.7.1-scalikejdbc-3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalikejdbc/scalikejdbc-play-initializer_2.12/2.7.1-scalikejdbc-3.3/scalikejdbc-play-initializer_2.12-2.7.1-scalikejdbc-3.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalikejdbc/scalikejdbc-play-initializer_2.12/2.7.1-scalikejdbc-3.3/scalikejdbc-play-initializer_2.12-2.7.1-scalikejdbc-3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
